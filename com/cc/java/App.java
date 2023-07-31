@@ -4,8 +4,8 @@ public class App {
 
 	public static void main(String[] args) {
 	
-	
-
+	Mitarbeiter mit1 = new Mitarbeiter("Cagri", "Kurt", "Streber", 31);
+		
 	}
 
 	
